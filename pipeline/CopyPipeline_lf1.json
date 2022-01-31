@@ -61,6 +61,10 @@
 			"var1": {
 				"type": "string",
 				"defaultValue": "testtest"
+			},
+			"var2": {
+				"type": "int",
+				"defaultValue": 123
 			}
 		},
 		"annotations": [],
